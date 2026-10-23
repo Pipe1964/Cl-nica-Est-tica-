@@ -1,0 +1,8 @@
+ÉLAN ESTÉTICA — DEMO
+
+1. Extrae el ZIP.
+2. Abre index.html en Chrome, Edge, Safari o Firefox.
+3. Usa los botones superiores para cambiar entre Página para pacientes y Panel administrador.
+4. Para probar el formulario de WhatsApp, edita index.html y reemplaza CLINIC_WHATSAPP por el número de prueba/consultorio con código de país, solo dígitos.
+
+Es un prototipo demostrativo. No guarda datos permanentemente, no sincroniza solicitudes con el panel y no debe usarse con datos reales de pacientes.
